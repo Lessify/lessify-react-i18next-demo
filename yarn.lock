@@ -1228,10 +1228,10 @@
     "@types/yargs" "^15.0.0"
     chalk "^3.0.0"
 
-"@lessify/react-i18next@0.0.1":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@lessify/react-i18next/-/react-i18next-0.0.1.tgz#b0274de8a793a7cb14346e7652997426f82b7946"
-  integrity sha512-1uDZIeqE2z7a/L3beBzDFplMoEC4qpxoMvP/LTsga3n8IqcERaudHAKEJGEjYl8ZmEIXcPy4gkDCgN0YAddjzQ==
+"@lessify/react-i18next@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@lessify/react-i18next/-/react-i18next-1.0.0.tgz#bb8a6b3dbdd2861680a9d947dfda6cea9e19e354"
+  integrity sha512-OKUqUr9g3vY7nn089gUDBbo1RJFtl5qh0mtWTzdYYg2B9aDYVHv1hy9ikqruzgCncYkix+zwFsZVppBlZrKhqg==
 
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"

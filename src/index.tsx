@@ -23,9 +23,9 @@ i18next
       backend: LessifyReactI18next(
           {
             space : {
-              spaceId: '9325a510-8de0-11ea-8d6d-493c632c6526',
+              spaceId: 'e600fed0-0674-11eb-8ebc-355c3e3200ae',
               environment: 'master',
-              apiKey: 'api-key-UhakG-fdb8a170-9286-11ea-8d6d-493c632c6526-IbKCV'
+              apiKey: 'api-key-Tqcgc-38872940-0d32-11eb-8a0e-61e5b1516e7a-Zlh7j'
             }
           }
       )
